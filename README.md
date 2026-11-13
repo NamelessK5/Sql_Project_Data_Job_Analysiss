@@ -393,15 +393,15 @@ Throughout this journey, i have strenghtened my  SQL toolkit with challenging qu
 
 ### Insights
 
-1. - **Top Paying Data Analyst Jobs**: The highest-paying Data Analyst listings in 2023 offered salaries between $184K and $650K. Seniority, leadership, and industry specialization were common factors among these opportunities. All 10 listings were full-time and listed as remote ("Anywhere").
+1.  **Top Paying Data Analyst Jobs**: The highest-paying Data Analyst listings in 2023 offered salaries between $184K and $650K. Seniority, leadership, and industry specialization were common factors among these opportunities. All 10 listings were full-time and listed as remote ("Anywhere").
 
-2. - **Skills for Top-Paying Jobs**: SQL, Python, and Tableau were the most frequently requested skills. SQL appeared in every posting, highlighting the importance of database querying in higher-paying analytics roles.
+2.  **Skills for Top-Paying Jobs**: SQL, Python, and Tableau were the most frequently requested skills. SQL appeared in every posting, highlighting the importance of database querying in higher-paying analytics roles.
 
-3. - **Most In-Demand Skills for Data Analysts**: SQL led employer demand with 7,291 mentions, followed by Excel, Python, Tableau, and Power BI. Employers value a combination of data querying, programming, spreadsheet analysis, and visualization.
+3.  **Most In-Demand Skills for Data Analysts**: SQL led employer demand with 7,291 mentions, followed by Excel, Python, Tableau, and Power BI. Employers value a combination of data querying, programming, spreadsheet analysis, and visualization.
 
-4. - **Skills With Higher Salaries**: PySpark led the salary rankings at $208K, highlighting the value of big data processing. Cloud computing, data engineering, advanced programming, and machine learning technologies were also associated with higher-paying positions.
+4.  **Skills With Higher Salaries**: PySpark led the salary rankings at $208K, highlighting the value of big data processing. Cloud computing, data engineering, advanced programming, and machine learning technologies were also associated with higher-paying positions.
 
-5. - **Optimal Skills for Job Market Value**: SQL, Excel, Python, and Tableau offered strong job demand, while specialized skills such as Go, Hadoop, Snowflake, and Azure showed higher average salaries. Combining foundational skills with specialized technical knowledge can improve career opportunities.
+5.  **Optimal Skills for Job Market Value**: SQL, Excel, Python, and Tableau offered strong job demand, while specialized skills such as Go, Hadoop, Snowflake, and Azure showed higher average salaries. Combining foundational skills with specialized technical knowledge can improve career opportunities.
 
 
 
